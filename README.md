@@ -1,6 +1,6 @@
-# [NewsHighlight](https://our-news.herokuapp.com/)
+# [NewsHighlight]()
 ## News Highlight is a web application meant to catch up hard workers on the current affairs
-### May 11th, 2018
+### 2019
 #### By **[Ahmad Ashraf](https://github.com/AhmadSAshraf)**
 
 ## Description
